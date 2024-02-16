@@ -12,5 +12,5 @@ Yes Fox development has socials.  Fox development has Mastodon , Youtube and a B
 &nbsp;
 [Youtube](https://youtube.com/@foxdev1010)
 &nbsp;
-[Blog](https://foxdevelops.github.io/blog)
+[Blog](https://coolcat3467.github.io/blog)
 &nbsp;
