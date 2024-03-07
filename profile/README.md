@@ -1,4 +1,4 @@
-# Welcome to Fox development
+# Welcome to Fox development | A Hobby of [James / Coolcat](https://github.com/coolcat3467)
 
 #### What is Fox development for
 
