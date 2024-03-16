@@ -1,15 +1,1 @@
-# Welcome to Fox development | A Hobby of [James / Coolcat](https://github.com/coolcat3467)
-
-#### What is Fox development for
-
-Fox development is for all of the development hobbies of James / Coolcat
-
-#### Dose Fox development have any socials
-
-Yes Fox development has socials.  Fox development has Youtube and a Blog. Links below
-
-
-[Youtube](https://youtube.com/@foxdev1010)
-&nbsp;
-[Blog](https://foxdev10.hashnode.dev)
-&nbsp;
+# Welcome to CatCode Labs | A Hobby of [James / Coolcat](https://github.com/coolcat3467)
