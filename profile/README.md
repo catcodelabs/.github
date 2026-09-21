@@ -5,9 +5,9 @@ Welcome to **CatCodeLabs**, an independent open-source software lab built by [@V
 ---
 # Current Projects
 ## hyprarch
-- custom Arch Linux ISO with hyprland preinstalled and preconfigured
-  - [shade](https://github.com/catcodelabs/shade)
-    - the shade hyprarch desktop environment.
+custom Arch Linux ISO with hyprland preinstalled and preconfigured
+- [shade](https://github.com/catcodelabs/shade)
+  - the shade hyprarch desktop environment.
  
 ## misc
 - [ember](https://github.com/catcodelabs/ember)
