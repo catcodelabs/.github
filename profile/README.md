@@ -1,5 +1,17 @@
-# 🐾 CatCode Labs
+# 🐾 CatCodeLabs
 
-Welcome to **CatCode Labs**, an independent open-source software lab built by [@VoxyTheCat](https://github.com/VoxyTheCat).
+Welcome to **CatCodeLabs**, an independent open-source software lab built by [@VoxyTheCat](https://github.com/VoxyTheCat).
 
-readme is under construction.
+---
+# Current Projects
+## hyprarch
+- custom Arch Linux ISO with hyprland preinstalled and preconfigured
+  - [shade](https://github.com/catcodelabs/shade)
+    - the shade hyprarch desktop environment.
+ 
+## misc
+- [ember](https://github.com/catcodelabs/ember)
+  - Developer-facing CLI for anvil
+ 
+---
+### Join the Discord [here](https://discord.gg/UaahhTcXB2)
