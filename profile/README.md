@@ -11,7 +11,7 @@ custom Arch Linux ISO with hyprland preinstalled and preconfigured
  
 ## misc
 - [ember](https://github.com/catcodelabs/ember)
-  - Developer-facing CLI for anvil
+  - Developer-facing CLI for anvil (coming soon)
  
 ---
 ### Join the Discord [here](https://discord.gg/UaahhTcXB2)
