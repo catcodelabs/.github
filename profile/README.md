@@ -11,7 +11,7 @@ custom Arch Linux ISO with hyprland preinstalled and preconfigured
  
 ## misc
 - [puyo](https://github.com/catcodelabs/puyo)
-  - **P**recariously **U**nified **Y**ay **O**rchestrator. A universal meta-wrapper for Arch Linux held together by hope and duct tape.
+  - **P**recariously **U**nified **Y**ay **O**rchestrator. A universal meta-wrapper for Arch-based Linux distros.
  
 ---
 ### Join the Discord [here](https://discord.gg/UaahhTcXB2)
