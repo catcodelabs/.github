@@ -10,8 +10,8 @@ custom Arch Linux ISO with hyprland preinstalled and preconfigured
   - the shade hyprarch desktop environment.
  
 ## misc
-- [ember](https://github.com/catcodelabs/ember)
-  - Developer-facing CLI for anvil (coming soon)
+- [puyo](https://github.com/catcodelabs/puyo)
+  - **P**recariously **U**nified **Y**ay **O**rchestrator. A universal meta-wrapper for Arch Linux held together by hope and duct tape.
  
 ---
 ### Join the Discord [here](https://discord.gg/UaahhTcXB2)
