@@ -16,7 +16,7 @@ custom Arch Linux ISO with hyprland preinstalled and preconfigured
 ---
 ### Join the Discord [here](https://discord.gg/UaahhTcXB2)
 ---
-**All** CatCodeLabs projects are licensed under the GNU General Public License v3.0 (GPL-3.0). See [`**LICENSE**`](https://raw.githubusercontent.com/catcodelabs/.github/refs/heads/main/LICENSE) for details.
+**All** CatCodeLabs projects are licensed under the GNU General Public License v3.0 (GPL-3.0). See [`LICENSE`](https://raw.githubusercontent.com/catcodelabs/.github/refs/heads/main/LICENSE) for details.
 
 # Contributing to CatCodeLabs
 
