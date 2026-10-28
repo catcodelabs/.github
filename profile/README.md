@@ -4,8 +4,10 @@ Welcome to **CatCodeLabs**, an independent open-source software lab built by [@V
 
 ---
 # Current Projects
-## hyprarch
-custom Arch Linux ISO with hyprland preinstalled and preconfigured
+## Aozora
+custom Arch Linux ISO
+- [aoshell](https://github.com/catcodelabs/aoshell)
+  - script dispatcher and management utility
 
  
 ## misc
