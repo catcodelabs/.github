@@ -1,6 +1,6 @@
 # 🐾 CatCodeLabs
 
-Welcome to **CatCodeLabs**, an independent open-source software lab built by [@VoxyTheCat](https://github.com/VoxyTheCat).
+Welcome to **CatCodeLabs**, an independent open-source software lab built by [Voxy Lancat](https://github.com/voxylancat).
 
 ---
 # Current Projects
